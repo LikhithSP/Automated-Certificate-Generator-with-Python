@@ -1,5 +1,9 @@
 ## Automated Certificate Generation Using Python
-Welcome to the Automated Certificate Generation GitHub repository! This project is designed to simplify and automate the process of generating certificates in various formats such as .docx and converting them into images like .png or .jpg.
+
+
+<img src="https://github.com/LikhithSP/automated-certificate-python/blob/main/images/output.png">
+
+<p><strong>This project is designed to simplify and automate the process of generating certificates in .docx format using python!</strong></p>
 
 ## 🌟 Project Overview
 This repository demonstrates how to use Python to create, customize, and convert certificates efficiently. It leverages powerful libraries like python-docx, pdf2image, and pypandoc to handle document creation and conversion seamlessly.
