@@ -50,11 +50,11 @@ pdf2image: For converting PDF files to image formats.
 
 pypandoc: For converting .docx files to PDF.
 
-🤝 Contributions
+## 🤝 Contributions
 Contributions are welcome! If you have ideas for improving this project or adding new features, feel free to fork the repository and submit a pull request. Issues and suggestions can also be raised in the Issues section.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📧 Contact
+## 📧 Contact
 For any inquiries, please reach out via email@example.com.
