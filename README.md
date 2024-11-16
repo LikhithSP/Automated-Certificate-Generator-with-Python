@@ -10,13 +10,11 @@
 This repository demonstrates how to use Python to create, customize, and convert certificates efficiently. It leverages powerful libraries like python-docx, pdf2image, and pypandoc to handle document creation and conversion seamlessly.
 
 ## 📋 Features
-Automated Certificate Creation: Generate certificates in bulk from a CSV file containing recipient details.
+<li>Automated Certificate Creation: Generate certificates in bulk from a CSV file containing recipient details.</li>
 
-Document Conversion: Convert .docx files to PDF and subsequently to image formats like .png or .jpg.
+<li>Customizable Templates: Use and modify .docx templates for certificate generation.</li>
 
-Customizable Templates: Use and modify .docx templates for certificate generation.
-
-Directory Management: Handle input and output directories for easy file management.
+<li>Directory Management: Handle input and output directories for easy file management.</li>
 
 ## 🚀 Getting Started
 To get started with this project, follow these steps:
