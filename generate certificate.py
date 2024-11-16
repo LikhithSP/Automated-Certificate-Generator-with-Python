@@ -41,3 +41,5 @@ def create_certification():
         }
         template.render(context)
         template.save(f"{output}/{name.replace(' ', '_')}.docx")
+# Run function
+create_certification()
