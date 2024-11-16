@@ -1,10 +1,10 @@
-Automated Certificate Generation Using Python
+## Automated Certificate Generation Using Python
 Welcome to the Automated Certificate Generation GitHub repository! This project is designed to simplify and automate the process of generating certificates in various formats such as .docx and converting them into images like .png or .jpg.
 
-🌟 Project Overview
+## 🌟 Project Overview
 This repository demonstrates how to use Python to create, customize, and convert certificates efficiently. It leverages powerful libraries like python-docx, pdf2image, and pypandoc to handle document creation and conversion seamlessly.
 
-📋 Features
+## 📋 Features
 Automated Certificate Creation: Generate certificates in bulk from a CSV file containing recipient details.
 
 Document Conversion: Convert .docx files to PDF and subsequently to image formats like .png or .jpg.
@@ -13,7 +13,7 @@ Customizable Templates: Use and modify .docx templates for certificate generatio
 
 Directory Management: Handle input and output directories for easy file management.
 
-🚀 Getting Started
+## 🚀 Getting Started
 To get started with this project, follow these steps:
 
 Clone the Repository:
@@ -33,7 +33,7 @@ Run the Script: Execute the script to generate certificates and convert them to 
 
 sh
 python main.py
-📂 Directory Structure
+## 📂 Directory Structure
 automated-certificate/
 ├── certificates/          # Input directory containing .docx certificate templates
 ├── images/                # Output directory for generated image files
@@ -41,7 +41,7 @@ automated-certificate/
 ├── certificate-template.docx # Template for certificate generation
 ├── main.py                # Main script for automation
 └── README.md              # Project documentation
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 Python: The core programming language used for scripting.
 
 python-docx: For reading and writing .docx files.
