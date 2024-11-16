@@ -20,3 +20,11 @@ with open(filename, 'r') as data:
     for line in reader:
         if line:  # Avoid processing empty lines
             getList.append(line)
+
+# Function to create files .docx
+def create_certification():
+    for names in getList:
+        # Ensure there are enough columns in the row
+        if len(names) < 4:
+            print(f"Skipping row due to insufficient columns: {names}")
+            continue
