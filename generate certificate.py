@@ -28,3 +28,16 @@ def create_certification():
         if len(names) < 4:
             print(f"Skipping row due to insufficient columns: {names}")
             continue
+        # Column's Name
+        date = names[0]
+        name = names[1]
+        head_event = names[2]
+        mentor = names[3]
+        context = {
+            'date': date,
+            'name': name,
+            'head_event': head_event,
+            'mentor': mentor,
+        }
+        template.render(context)
+        template.save(f"{output}/{name.replace(' ', '_')}.docx")
