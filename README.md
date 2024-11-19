@@ -1,7 +1,7 @@
 ## 🎗️ Automated Certificate Generation Using Python
 
 <div align="center">
-<img src="https://github.com/LikhithSP/automated-certificate-python/blob/main/images/png">
+<img src="https://github.com/LikhithSP/automated-certificate-python/blob/main/images/output.png">
 </div>
 
 <p align="center"><strong>This project is designed to simplify and automate the process of generating certificates in .docx format</strong></p>
@@ -37,14 +37,17 @@ Run the Script: Execute the script to generate certificates and convert them to 
 
 sh
 python main.py
+
 ## 📂 Directory Structure
+
 automated-certificate/
-├── certificates/          # Input directory containing .docx certificate templates
-├── images/                # Output directory for generated image files
-├── data.csv               # CSV file with recipient details
-├── certificate-template.docx # Template for certificate generation
-├── main.py                # Main script for automation
-└── README.md              # Project documentation
+├── certificates/               # Input directory containing .docx certificate templates
+├── images/                     # Output directory for generated image files
+├── data.csv                    # CSV file with recipient details
+├── certificate-template.docx   # Template for certificate generation
+├── main.py                     # Main script for automation
+└── README.md                   # Project documentation
+
 ## 🛠️ Technologies Used
 Python: The core programming language used for scripting.
 
