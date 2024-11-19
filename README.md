@@ -1,7 +1,7 @@
 ## 🎗️ Automated Certificate Generation Using Python
 
 <div align="center">
-<img src="https://github.com/LikhithSP/automated-certificate-python/blob/main/images/output.png">
+<img src="https://github.com/LikhithSP/automated-certificate-python/blob/main/images/png">
 </div>
 
 <p align="center"><strong>This project is designed to simplify and automate the process of generating certificates in .docx format</strong></p>
@@ -17,6 +17,7 @@ This repository demonstrates how to use Python to create, customize, and convert
 <li>Directory Management: Handle input and output directories for easy file management.</li>
 
 ## 🚀 Getting Started
+
 To get started with this project, follow these steps:
 
 Clone the Repository:
