@@ -61,5 +61,14 @@ Contributions are welcome! If you have ideas for improving this project or addin
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 📧 Contact
-For any inquiries, please reach out via email@example.com.
+<h2>🤝 Connect With Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/likhithsp" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" class="icon">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.github.com/LikhithSP" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=46565&format=png&color=000000" alt="GitHub" class="icon">
+  </a>
+</p>
+
